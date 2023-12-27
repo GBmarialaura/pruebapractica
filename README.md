@@ -13,7 +13,7 @@ Análisis con modelo Bert: Este se dejó correr un tiempo y fue interrumpido por
 
  ![image](https://github.com/GBmarialaura/pruebapractica/assets/154933491/f809ea32-6cd9-4ace-80e8-4f2aa3f8b29b)
 
-Modelo Bert optimizando parámetros con ayuda de Optuna: Este se dejó correr un tiempo y fue interrumpido por su peso.
+Modelo Bert optimizando parámetros con ayuda de Optuna: Este se dejó correr un tiempo y fue interrumpido por su peso. Optuna es un framework diseñado para machine learning, este nos ayuda a encontrar los hiperparametros necesarios para mejorar nuestro modelo.
  
 ![image](https://github.com/GBmarialaura/pruebapractica/assets/154933491/c2fb23be-2ac0-47a6-8bf4-2c013462df6e)
 
