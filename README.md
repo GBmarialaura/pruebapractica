@@ -25,3 +25,14 @@ y luego definimos funciones para que se establesca la busqueda con el formato JS
 
 ![image](https://github.com/GBmarialaura/pruebapractica/assets/154933491/74b04685-abec-414f-8635-e7c07aa9a8dd)
 
+# Tercer punto
+
+Pasos para implementar un modelo de aprendizaje automático en AWS de manera simplificada:
+
+Crea una cuenta de AWS: Regístrate en AWS y crea una cuenta.
+Crea un usuario administrativo: Crea un usuario con privilegios administrativos, es un consejo para que no tengas que usar el usuario root para tareas diarias.
+Almacena tus datos y modelo en Amazon S3: Guarda tus datos de entrenamiento y modelos de aprendizaje automático entrenados en Amazon S3.
+Entrena tu modelo con Amazon EC2 o Amazon SageMaker: Entrena tu modelo de aprendizaje automático en Amazon EC2 o Amazon SageMaker.
+Crea una API con Amazon API Gateway: Crea una API REST que exponga una serie de puntos finales HTTP para acceder a los servicios de predicción de tu modelo.
+Implementa tu modelo con AWS Lambda: Ejecuta tu código en respuesta a eventos con AWS Lambda.
+Configura la función Lambda: Configura tu función Lambda según tus necesidades.
