@@ -17,6 +17,12 @@ Modelo Bert optimizando parámetros con ayuda de Optuna: Este se dejó correr un
  
 ![image](https://github.com/GBmarialaura/pruebapractica/assets/154933491/c2fb23be-2ac0-47a6-8bf4-2c013462df6e)
 
+Conclusión: 
+
+Se puede trabajar con un modelo más simple para evitar tanta carga computacional y así observar resultados más completos. Propuestas como SVM, LSTM y demas modelos que se puedan entrenar con la base de datos y optimizarlo segun las necesidades que se tengan. A lo que observamos se tiene buena exactitud en los modelos, pero no se visualiza por tiempo el resultado final. Se usa BERT debido a que es un modelo muy conocido en el mundo del NLP, pero es un modelo pesado.
+El analisis utilizando NLTK se puede implementar para tener un mejor analisis del modelo, ya que con el texto limpio se vueve más facil para la maquina comprender el texto y realizar evaluación sobre este. 
+Tambien tomamos en cuenta que las etiquetas tienen un sesgo muy grande, ya que se cuenta con pocas etiquetas de 'mentira', lo cual nos puede llevar a un sesgo hacia la etiqueta de 'verdad'
+
 # Segundo Punto
 Realizamos primero un codigo que nos ayude a extraer las rutas de los parametros requeridos, ayudandonos con la busqueda por medio de texto:
 ![image](https://github.com/GBmarialaura/pruebapractica/assets/154933491/770cd1bc-5395-4661-adbc-1c1fee6a1601)
