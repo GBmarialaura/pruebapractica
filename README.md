@@ -1,4 +1,5 @@
 # pruebapractica
+# Primer Punto
 Análisis descriptivo de las variables.
 ![image](https://github.com/GBmarialaura/pruebapractica/assets/154933491/d2ce6aec-926e-4508-8cb1-dc804dfadfe0)
 ![image](https://github.com/GBmarialaura/pruebapractica/assets/154933491/4e92d13d-4f4b-4452-909e-e4bd6b662425)
@@ -15,3 +16,12 @@ Análisis con modelo Bert: Este se dejó correr un tiempo y fue interrumpido por
 Modelo Bert optimizando parámetros con ayuda de Optuna: Este se dejó correr un tiempo y fue interrumpido por su peso.
  
 ![image](https://github.com/GBmarialaura/pruebapractica/assets/154933491/c2fb23be-2ac0-47a6-8bf4-2c013462df6e)
+
+# Segundo Punto
+Realizamos primero un codigo que nos ayude a extraer las rutas de los parametros requeridos, ayudandonos con la busqueda por medio de texto:
+![image](https://github.com/GBmarialaura/pruebapractica/assets/154933491/770cd1bc-5395-4661-adbc-1c1fee6a1601)
+
+y luego definimos funciones para que se establesca la busqueda con el formato JSON
+
+![image](https://github.com/GBmarialaura/pruebapractica/assets/154933491/74b04685-abec-414f-8635-e7c07aa9a8dd)
+
